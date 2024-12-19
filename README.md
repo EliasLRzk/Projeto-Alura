@@ -1,4 +1,4 @@
-## Buscador de Animes 
+## Animes Marcantes
 
 **Descrição:**
 Um buscador simples e intuitivo para encontrar seus animes favoritos. Digite o nome de um anime e descubra novas séries!
